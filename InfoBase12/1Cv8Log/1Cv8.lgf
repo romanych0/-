@@ -1,0 +1,20 @@
+﻿1CV8LOG(ver 2.0)
+b13b9b6c-5400-4989-8a48-6d5965671f9c
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"romanych",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,2547ceac-63e4-4147-9003-87d77cdc2e3c,"",1},
+{5,4f30e41d-041c-4a03-9ba2-9089df72cd32,"",2},
+{5,7c180c1e-a95e-4fa7-8387-d0a8c747b549,"",3},
+{5,bca13d21-5479-4461-8feb-11bdc4ef2c58,"",4},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{4,"_$Access$_.Access",7},
+{4,"_$Session$_.Finish",8},
+{3,"1CV8C",2}
